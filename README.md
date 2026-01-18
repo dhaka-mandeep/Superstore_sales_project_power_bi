@@ -1,4 +1,9 @@
 📊 Superstore Sales Dashboard | Power BI
+
+🖼 Dashboard Preview :
+
+<img width="1022" height="578" alt="image" src="https://github.com/user-attachments/assets/f1f80db2-fa5a-4024-9d53-7804660b9e63" />
+
 🔍 Project Overview
 This project presents an interactive Power BI Sales Dashboard built using Superstore sales data.
 The dashboard helps stakeholders monitor sales, profit, quantity, and returns, analyze regional performance, and identify growth opportunities.
@@ -34,9 +39,6 @@ Sales show consistent YoY growth with seasonal peaks.
 Standard shipping mode generates the highest revenue.
 Chairs and Phones are top-performing sub-categories.
 
-🖼 Dashboard Preview :
-
-<img width="1022" height="578" alt="image" src="https://github.com/user-attachments/assets/f1f80db2-fa5a-4024-9d53-7804660b9e63" />
 
 📬 Contact
 LinkedIn: https://www.linkedin.com/in/mandeep-dhaka-31046b3a5/
